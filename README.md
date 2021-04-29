@@ -1,11 +1,11 @@
-# Introduction to Data Science for Public Policy and Management 
+# Introduction to Computational Text Analysis
 
 * Instructor: [Jae Yeon Kim](https://jaeyk.github.io/)
 
-What is data science, and how can you apply it to solve social problems? This course is for students with a serious interest in using data-driven approaches to tackle pressing social problems. The course will provide students with a mental framework to think through the critical decisions they need to make in each step of the data science workflow. 
+This advanced course introduces students to computational text analysis. Text is everywhere, from open-ended questions in surveys to newspaper articles, to social media posts. Recent developments in natural language processing and machine learning allow us to collect and analyze text data faster, easier, and at scale. This course will teach you about these tools and techniques and their promises and limitations in social science applications. In addition, we will explore how we can be more creative about taking the text-as-data approach by treating the computational text analysis as one component of a larger research project. 
 
-The course is divided into two main sections: fundamentals and applications. As for fundamentals, we will first learn what data science is and what it is not (spoiler: it is not all about big data!) and how to design a data science project. We will then learn the framework of computational social science: combining data science tools and techniques with social science theories and research methods. 
-
-As for applications, we will learn how to answer descriptive, inferential, and predictive questions using administrative, survey, experimental, and digital trace data. Each class session is built around discussions on data science applications to social problems, ranging from detecting poverty to reducing pollution.  
-
-Note that the course is not about learning programming. The emphasis is on navigating various ways of combining data, computing, and social science to solve real-world problems.
+The course is divided into four sections:
+* We will learn the promises and limitations of the text-as-data approach.
+* We will learn how to collect a large volume of text data using web scraping and application programming interfaces.
+* We will learn how to analyze text data using natural language processing and machine learning.
+* We will learn how to combine the text-as-data approach with other means of collecting and analyzing qualitative and quantitative data. 
